@@ -1,0 +1,39 @@
+.wrapper {
+    width: 960px;
+
+}
+
+.nav {
+    background-color: #6495ed;
+    display: flex;
+    justify-content: space-evenly;
+    
+    color: white;
+    align-items: center;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img {
+    width: 100px;
+
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    width: 568px;
+    justify-content: space-evenly;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+
+}
+
+h1 {
+
+    font-size: 16px;
+    font-weight: normal;
+}
